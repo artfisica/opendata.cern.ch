@@ -1,4 +1,9 @@
-**[ATLAS](https://atlas.cern)** (A Toroidal LHC ApparatuS) is one of the four major experiments at the [Large Hadron Collider](http://home.web.cern.ch/topics/large-hadron-collider) (LHC) at [CERN](https://home.cern). It is a general-purpose particle physics experiment run by an international collaboration and, together with [CMS](https://cms.cern), is designed to exploit the full discovery potential and the vast range of physics opportunities that the LHC provides.
+**[ATLAS](https://atlas.cern)** is one of the four major experiments at the [Large Hadron Collider](http://home.web.cern.ch/topics/large-hadron-collider) (LHC) at [CERN](https://home.cern). It is a general-purpose particle physics experiment run by an international collaboration and, same as [CMS](https://cms.cern), is designed to exploit the full discovery potential and the vast range of physics opportunities that the LHC provides.
+
+
+---
+
+
 
 [ATLAS](https://atlas.cern)'s scientific exploration uses precision measurement to push the frontiers of knowledge by seeking answers to fundamental questions such as: What are the basic building blocks of matter? What are the fundamental forces of nature? Could there be a greater underlying symmetry to our universe?
 
